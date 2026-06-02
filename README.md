@@ -67,10 +67,10 @@ So Fresh had strong total revenue, but the overall numbers hid serious operation
 ---
 
 ## Repository Structure
-├── So-Fresh-Excel-Dashboard.png     : Dashboard screenshot
-├── So-Fresh-Financial-Analysis.pdf  : Executive presentation deck 
+├── So-Fresh-Excel-Dashboard.png     : Dashboard screenshot for GitHub preview
+├── So-Fresh-Financial-Analysis.pdf  : Executive presentation deck (11 slides)
 └── So-Fresh-Financial-Analysis.xlsx : Centralized financial workbook
-├── Revenue                      : Master data model (600 rows × 20 columns)
+├── Revenue                      : Master data sheet consolidated via XLOOKUP (600 rows × 20 columns)
 ├── Expense                      : Source operational expense records
 ├── Products                     : Product category lookup table
 ├── Sales Manager                : Regional manager mapping matrix
