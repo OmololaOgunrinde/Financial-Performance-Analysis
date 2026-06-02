@@ -7,7 +7,7 @@ An executive financial dashboard and variance analysis that evaluates portfolio 
 ## Business Objective
 
 So Fresh had strong total revenue, but the overall numbers hid serious operational problems, localized losses, and mid-year cost spikes. This project combines separate sales and expense data into one central data model. It delivers an interactive Excel dashboard and a strategic presentation deck (`So-Fresh-Financial-Analysis.pdf`) to identify profit leaks and give management clear, evidence-based cost-control steps.
-
+**[Click Here to View the Executive Presentation Deck (PDF)](So-Fresh-Financial-Analysis.pdf)**
 ---
 
 ## Core Financial Performance (Fiscal Year)
