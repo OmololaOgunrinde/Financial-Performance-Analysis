@@ -48,10 +48,10 @@ So Fresh had strong total revenue, but the overall numbers hid serious operation
 
 ## Technical Work and Project Deliverables
 
-* **Data Modeling and Power Query:** Cleaned and merged separate sales and expense tables into a unified master flat table (600 rows) with supporting lookup tables for products and sales managers.
+* **Data Modeling and Power Query:** ** Consolidated multi-sheet data by using XLOOKUP formulas to dynamically map regional sales managers and product details into a unified master flat table (600 rows by 20 columns).
 * **Metric Engineering:** Built 8 calculated columns directly in the master table covering sales variance, expense variance, net profit variance, variance percentages, and net profit margins.
 * **Interactive Dashboard Architecture:** Built a dynamic cockpit featuring 4 executive KPIs and 6 interactive charts driven by linked Slicers (Branch, Product, Sales Manager). Charts track monthly actual versus expense trends, actual versus budget sales, net profit margin by product, monthly profitability combo trends, profit variance percentage by branch, and expense variance percentage by manager. Conditional formatting is applied to instantly flag the 15 net-loss combinations.
-* **Strategic Presentation PDF:** Created a comprehensive 11-page executive presentation (`So-Fresh-Financial-Analysis.pdf`) to communicate insights clearly to a non-technical audience, explaining the root causes of the losses and justifying the proposed budget modifications.
+* **Strategic Presentation PDF:** Created a comprehensive executive presentation (`So-Fresh-Financial-Analysis.pdf`) to communicate insights clearly to a non-technical audience, explaining the root causes of the losses and justifying the proposed budget modifications.
 
 ---
 
